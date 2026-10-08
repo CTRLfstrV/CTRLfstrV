@@ -4,6 +4,12 @@
 
 ###
 
+<br clear="both">
+
+<img data-importer="image" align="right" height="384" src="https://i.postimg.cc/05SnV2Mr/club-penguin-meme-dancing-penguin.gif"  />
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
@@ -23,12 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="318" src="https://https://https://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguinhttps://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguin-emoji-gif-27435329emoji-gif-27435329://tenor.com/b1hlt.gif://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguin-emoji-gif-27435329.https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203/pt-BR/view/club-penguin-gif-16374127956260176203.com/pt-BR/https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203/club-penguin-gif-https://tenor.com/pt-BR/view/club-penguin-gif-https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203"  />
 
 ###
 
