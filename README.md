@@ -1,12 +1,10 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=008000"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="384" src="https://i.postimg.cc/05SnV2Mr/club-penguin-meme-dancing-penguin.gif"  />
+<img data-importer="image" align="right" height="454" src="https://i.postimg.cc/05SnV2Mr/club-penguin-meme-dancing-penguin.gif"  />
 
 ###
 
@@ -32,20 +30,20 @@
 
 ###
 
-<h3 data-importer="text" align="left">▒█▄░▒█ ▒█▀▀▀ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀█ <br>▒█▒█▒█ ▒█▀▀▀ ░▒█▒█░ ▒█▀▀▀ ▒█▄▄▀ <br>▒█░░▀█ ▒█▄▄▄ ░░▀▄▀░ ▒█▄▄▄ ▒█░▒█ <br><br>▒█▀▀█ ▀█▀ ▒█░░▒█ ▒█▀▀▀ <br>▒█░▄▄ ▒█░ ░▒█▒█░ ▒█▀▀▀ <br>▒█▄▄█ ▄█▄ ░░▀▄▀░ ▒█▄▄▄ <br><br>▒█░▒█ ▒█▀▀█ <br>▒█░▒█ ▒█▄▄█ <br>░▀▄▄▀ ▒█░░░</h3>
+<h2 data-importer="text" align="left">▒█▄░▒█ ▒█▀▀▀ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀█ <br>▒█▒█▒█ ▒█▀▀▀ ░▒█▒█░ ▒█▀▀▀ ▒█▄▄▀ <br>▒█░░▀█ ▒█▄▄▄ ░░▀▄▀░ ▒█▄▄▄ ▒█░▒█ <br><br>▒█▀▀█ ▀█▀ ▒█░░▒█ ▒█▀▀▀ <br>▒█░▄▄ ▒█░ ░▒█▒█░ ▒█▀▀▀ <br>▒█▄▄█ ▄█▄ ░░▀▄▀░ ▒█▄▄▄ <br><br>▒█░▒█ ▒█▀▀█ █ <br>▒█░▒█ ▒█▄▄█ ▀ <br>░▀▄▄▀ ▒█░░░ ▄</h2>
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="left" height="281" src="https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-26-40.png-40.png"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="473" src="https://imgs.search.brave.com/kRlDrLZmuO6K2X1RflxgpeEGUsYfAMRxtURffsh7Bu8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWR6Y0hJMmNH/TmtibkYyYTJFd2Ey/cDBkMlZsTTNKNmRE/Um5ZM0E0TW5Vd2FX/WnZZMnN5WlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vZUxEeVFSSmJY/NVR3blJFZ0hmLzEw/MC5naWY.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=008000"  />
 </div>
 
 ###
