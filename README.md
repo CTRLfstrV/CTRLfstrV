@@ -4,10 +4,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="415" src="https://imgs.search.brave.com/h96AaHSwB794D3FAmc5uc-54G5kFWKdeAs_EdisFAXA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg0L2E1/L2U0Lzg0YTVlNGMz/NmNmZDBkYmU0NmM0/ZDRjNDQ4ZWEwNTU0/LmpwZw"  />
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
@@ -30,15 +26,23 @@
 
 ###
 
-<h1 data-importer="text" align="left">▒█▄░▒█ ▒█▀▀▀ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀█ <br>▒█▒█▒█ ▒█▀▀▀ ░▒█▒█░ ▒█▀▀▀ ▒█▄▄▀ <br>▒█░░▀█ ▒█▄▄▄ ░░▀▄▀░ ▒█▄▄▄ ▒█░▒█ <br><br>▒█▀▀█ ▀█▀ ▒█░░▒█ ▒█▀▀▀ <br>▒█░▄▄ ▒█░ ░▒█▒█░ ▒█▀▀▀ <br>▒█▄▄█ ▄█▄ ░░▀▄▀░ ▒█▄▄▄ <br><br>▒█░▒█ ▒█▀▀█ <br>▒█░▒█ ▒█▄▄█ <br>░▀▄▄▀ ▒█░░░</h1>
+<br clear="both">
+
+<img data-importer="image" align="right" height="318" src="https://https://https://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguinhttps://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguin-emoji-gif-27435329emoji-gif-27435329://tenor.com/b1hlt.gif://tenor.com/pt-BR/view/club-penguin-meme-dancing-penguin-penguin-twerk-club-penguin-club-penguin-emoji-gif-27435329.https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203/pt-BR/view/club-penguin-gif-16374127956260176203.com/pt-BR/https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203/club-penguin-gif-https://tenor.com/pt-BR/view/club-penguin-gif-https://tenor.com/pt-BR/view/club-penguin-gif-16374127956260176203"  />
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="444" src="https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-26-40.png-40.png"  />
-</div>
+<h3 data-importer="text" align="left">▒█▄░▒█ ▒█▀▀▀ ▒█░░▒█ ▒█▀▀▀ ▒█▀▀█ <br>▒█▒█▒█ ▒█▀▀▀ ░▒█▒█░ ▒█▀▀▀ ▒█▄▄▀ <br>▒█░░▀█ ▒█▄▄▄ ░░▀▄▀░ ▒█▄▄▄ ▒█░▒█ <br><br>▒█▀▀█ ▀█▀ ▒█░░▒█ ▒█▀▀▀ <br>▒█░▄▄ ▒█░ ░▒█▒█░ ▒█▀▀▀ <br>▒█▄▄█ ▄█▄ ░░▀▄▀░ ▒█▄▄▄ <br><br>▒█░▒█ ▒█▀▀█ <br>▒█░▒█ ▒█▄▄█ <br>░▀▄▄▀ ▒█░░░</h3>
 
 ###
+
+<br clear="both">
+
+<img data-importer="image" align="left" height="281" src="https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-https://i.postimg.cc/1RdnTpF2/Chat-GPT-Image-7-de-out-de-2026-22-26-40.png-40.png"  />
+
+###
+
+<br clear="both">
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
