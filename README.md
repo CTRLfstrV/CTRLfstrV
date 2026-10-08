@@ -4,7 +4,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="422" src="https://i.postimg.cc/05SnV2Mr/club-penguin-meme-dancing-penguin.gif"  />
+<img data-importer="image" align="right" height="360" src="https://i.postimg.cc/05SnV2Mr/club-penguin-meme-dancing-penguin.gif"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="277" src="https://imgs.search.brave.com/kRlDrLZmuO6K2X1RflxgpeEGUsYfAMRxtURffsh7Bu8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWR6Y0hJMmNH/TmtibkYyYTJFd2Ey/cDBkMlZsTTNKNmRE/Um5ZM0E0TW5Vd2FX/WnZZMnN5WlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vZUxEeVFSSmJY/NVR3blJFZ0hmLzEw/MC5naWY.gif"  />
+<img data-importer="image" align="left" height="509" src="https://imgs.search.brave.com/kRlDrLZmuO6K2X1RflxgpeEGUsYfAMRxtURffsh7Bu8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWR6Y0hJMmNH/TmtibkYyYTJFd2Ey/cDBkMlZsTTNKNmRE/Um5ZM0E0TW5Vd2FX/WnZZMnN5WlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vZUxEeVFSSmJY/NVR3blJFZ0hmLzEw/MC5naWY.gif"  />
 
 ###
 
